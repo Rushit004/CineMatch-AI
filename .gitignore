@@ -1,0 +1,15 @@
+venv/
+env/
+.venv/
+
+__pycache__/
+*.pyc
+
+.env
+
+.streamlit/secrets.toml
+
+.idea/
+.vscode/
+
+similarity.pkl

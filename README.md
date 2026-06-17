@@ -24,11 +24,7 @@ similarity to surface the 5 closest matches, posters included.
 ## Project Preview
 
 <table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="screenshots/01_app_landing.png" alt="App Landing" width="100%"/>
-    </td>
-  </tr>
+  
   <tr>
     <td width="50%" align="center">
       <img src="screenshots/03_recommendations_variant_a.png" alt="Recommendations - Variant A" width="100%"/>

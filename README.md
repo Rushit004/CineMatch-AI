@@ -23,7 +23,29 @@ similarity to surface the 5 closest matches, posters included.
 
 ## Project Preview
 
-> 📸 *Add a screenshot or short GIF of the deployed app (e.g. `screenshots/01_app_overview.png`) here.*
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/01_app_landing.png" alt="App Landing" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="screenshots/03_recommendations_variant_a.png" alt="Recommendations - Variant A" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="screenshots/03_recommendations_variant_b.png" alt="Recommendations - Variant B" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="screenshots/03_recommendations_variant_c.png" alt="Recommendations - Variant C" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="screenshots/03_recommendations_variant_d.png" alt="Recommendations - Variant D" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

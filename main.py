@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 # ---------------- CONFIG ---------------- #
 load_dotenv()
 
-api_key = os.getenv("TMDB_API_KEY")
+api_key = st.secrets["TMDB_API_KEY"]
 
 
 
